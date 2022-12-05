@@ -1,2 +1,2 @@
-# Poll---PHP
+# Poll-PHP
 Poll built with PDO and MySQL
